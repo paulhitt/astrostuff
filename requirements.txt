@@ -1,0 +1,5 @@
+matplotlib
+astroNN
+tensorflow-macos
+tensorflow-metal
+tensorflow_datasets
